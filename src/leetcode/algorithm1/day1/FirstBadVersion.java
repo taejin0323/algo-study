@@ -1,4 +1,4 @@
-package leetcode.day1;
+package leetcode.algorithm1.day1;
 
 class Solution2 {
 	public int firstBadVersion(int n) {
